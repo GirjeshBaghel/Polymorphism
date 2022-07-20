@@ -81,11 +81,11 @@ public class Overloading
 		public static void main(String agrs[]) 
 		{
 			Overloading obj=new Overloading ();//crate object for calling the methods.....
-          obj.Area(r, pie, r);
-          obj.Area(l, b, r);
-          obj.Area(pie, r, h, l);
-          obj.Area(side, b);
-          obj.Area(a, c,2.3);    
+          		obj.Area(r, pie, r);
+         		obj.Area(l, b, r);
+          		obj.Area(pie, r, h, l);
+         		obj.Area(side, b);
+          		obj.Area(a, c,2.3);    
           	  
 		}
 }
